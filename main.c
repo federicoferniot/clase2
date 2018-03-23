@@ -7,6 +7,8 @@
 
 int main()
 {
+
+    //Comentario
     int i;
     int numeroUsuario;
     int acumulador = 0;
